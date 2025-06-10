@@ -6,18 +6,11 @@
 llama-lora-finetune/
 ├── README.md
 ├── requirements.txt
-├── configs/
-│   └── training_args.py
 ├── data/
-│   ├── preprocessing.py
 │   └── sft_dataset.py
-├── models/
-│   └── loader.py
 ├── utils/
-│   ├── logging.py
 │   └── collate.py
 └── scripts/
-    ├── train.py
     └── sft_train.py
 ```
 
