@@ -20,3 +20,8 @@ llama-lora-finetune/
     ├── train.py
     └── sft_train.py
 ```
+
+```bash
+pip install -r requirements.txt
+python scripts/sft_train.py
+```
