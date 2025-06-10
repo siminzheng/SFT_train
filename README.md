@@ -8,6 +8,7 @@ SFT_train/
 ├── requirements.txt
 ├── data/
 │   └── sft_dataset.py
+│   └── sft_dataset.json
 ├── utils/
 │   └── collate.py
 └── scripts/
